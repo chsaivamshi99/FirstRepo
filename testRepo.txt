@@ -1,3 +1,7 @@
 This is my first commit.
 This is my first change.
+<<<<<<< HEAD
 compare changes.
+=======
+Updated this from GitHub.com
+>>>>>>> c43f3c33fded8d99ac49577f18aceb03c1b4daab
